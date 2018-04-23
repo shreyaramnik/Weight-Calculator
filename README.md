@@ -1,2 +1,2 @@
-# cal
+# Calculator
 weight calculator
