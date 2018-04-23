@@ -1,2 +1,2 @@
 # Calculator
-weight calculator
+weight calculator in Grams, Kgs and ozs
